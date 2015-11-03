@@ -1,0 +1,8 @@
+1. git clone, git pull, git checkout 差異
+git clone: Clones a repository into a newly created directory, creates remote-tracking branches for each branch in the cloned repository.
+git pull: Incorporates changes from a remote repository into the current branch.
+git checkout: Updates files in the working tree to match the version in the index or the specified tree.
+
+2. git commit, git push 差異
+git commit: Stores the current contents of the index in a new commit along with a log message from the user describing the changes.
+git push: Updates remote refs using local refs, while sending objects necessary to complete the given refs.
